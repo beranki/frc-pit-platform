@@ -1,0 +1,20 @@
+{
+  "offseason": {
+    "ccc": {}
+  },
+  "season": {
+    "mbr": {
+      "chain.stl": "src\\lib\\cads\\season\\mbr\\chain.stl",
+      "chassis.stl": "src\\lib\\cads\\season\\mbr\\chassis.stl",
+      "intake.stl": "src\\lib\\cads\\season\\mbr\\intake.stl",
+      "shooter.stl": "src\\lib\\cads\\season\\mbr\\shooter.stl",
+      "total.stl": "src\\lib\\cads\\season\\mbr\\total.stl"
+    },
+    "svr": {
+      "chain.stl": "src\\lib\\cads\\season\\svr\\chain.stl",
+      "chassis.stl": "src\\lib\\cads\\season\\svr\\chassis.stl",
+      "shooter.stl": "src\\lib\\cads\\season\\svr\\shooter.stl",
+      "total.stl": "src\\lib\\cads\\season\\svr\\total.stl"
+    }
+  }
+}
